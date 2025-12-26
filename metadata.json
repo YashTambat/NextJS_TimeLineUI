@@ -1,0 +1,8 @@
+{
+  "name": "Empty Build - Minimalist Workspace",
+  "description": "A sophisticated, distraction-free environment for starting new projects, featuring AI-powered brainstorming and a clean, high-end UI design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
